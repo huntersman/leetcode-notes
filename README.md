@@ -7,3 +7,6 @@ record some questions of leetcode
 - [34 Find First and Last Position of Element in Sorted Array](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray.java)
 - [69. Sqrt(x)](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/Sqrtx.java)
 - [367. Valid Perfect Square](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/ValidPerfectSquare.java)
+
+## TwoPointers
+- [27. Remove Element](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RemoveElement.java)
