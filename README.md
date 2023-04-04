@@ -11,3 +11,4 @@ record some questions of leetcode
 ## TwoPointers
 - [27. Remove Element](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RemoveElement.java)
 - [26. Remove Duplicates from Sorted Array](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RemoveDuplicatesFromSortedArray.java)
+- [283. Move Zeroes](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/MoveZeroes.java)
