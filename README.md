@@ -17,3 +17,4 @@ record some questions of leetcode
 
 ## Sliding Window
 - [209. Minimum Size Subarray Sum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumSizeSubarraySum.java)
+- [904. Fruit Into Baskets](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/FruitIntoBaskets.java)
