@@ -31,3 +31,6 @@ record some questions of leetcode
 
 ## Dynamic Programming
 - [509. Fibonacci Number](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/FibonacciNumber.java)
+
+## Stacks And Queues
+- [232. Implement Queue using Stacks]()
