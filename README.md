@@ -33,4 +33,4 @@ record some questions of leetcode
 - [509. Fibonacci Number](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/FibonacciNumber.java)
 
 ## Stacks And Queues
-- [232. Implement Queue using Stacks]()
+- [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
