@@ -14,25 +14,25 @@ public class ImplementQueueUsingStacks {
     }
 
     public int pop() {
-        if (out.isEmpty()) {
-            while (!in.isEmpty()) {
-                out.add(in.pop());
-            }
-        }
+        transferStack();
         return out.pop();
     }
 
     public int peek() {
-        if (out.isEmpty()) {
-            while (!in.isEmpty()) {
-                out.add(in.pop());
-            }
-        }
+        transferStack();
         return out.peek();
     }
 
     public boolean empty() {
         return in.isEmpty() && out.empty();
+    }
+
+    private void transferStack() {
+        if (out.isEmpty()) {
+            while (!in.isEmpty()) {
+                out.add(in.pop());
+            }
+        }
     }
 
 }
