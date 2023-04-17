@@ -35,3 +35,4 @@ record some questions of leetcode
 ## Stacks And Queues
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
 - [225. Implement Stack using Queues](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementStackUsingQueues.java)
+- [20. Valid Parentheses](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ValidParentheses.java)
