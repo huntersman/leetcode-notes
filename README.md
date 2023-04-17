@@ -36,3 +36,4 @@ record some questions of leetcode
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
 - [225. Implement Stack using Queues](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementStackUsingQueues.java)
 - [20. Valid Parentheses](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ValidParentheses.java)
+- [1047. Remove All Adjacent Duplicates In String](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/RemoveAllAdjacentDuplicatesInString.java)
