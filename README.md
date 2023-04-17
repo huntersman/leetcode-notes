@@ -39,3 +39,4 @@ record some questions of leetcode
 - [20. Valid Parentheses](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ValidParentheses.java)
 - [1047. Remove All Adjacent Duplicates In String](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/RemoveAllAdjacentDuplicatesInString.java)
 - [150. Evaluate Reverse Polish Notation](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/EvaluateReversePolishNotation.java)
+- [347. Top K Frequent Elements](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/TopKFrequentElements.java)
