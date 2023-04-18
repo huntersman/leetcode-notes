@@ -53,3 +53,4 @@ record some questions of leetcode
 - [104. Maximum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MaximumDepthOfBinaryTree.java)
 - [111. Minimum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MinimumDepthOfBinaryTree.java)
 - [226. Invert Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InvertBinaryTree.java)
+- [101. Symmetric Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SymmetricTree.java)
