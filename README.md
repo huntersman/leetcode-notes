@@ -50,3 +50,4 @@ record some questions of leetcode
 - [515. Find Largest Value in Each Tree Row](https://github.com/huntersman/leetcode-notes/blob/main/Trees/FindLargestValueInEachTreeRow.java)
 - [116. Populating Next Right Pointers in Each Node](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PopulatingNextRightPointersInEachNode.java)
 - [117. Populating Next Right Pointers in Each Node II](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PopulatingNextRightPointersInEachNode2.java)
+- [104. Maximum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/maxDepth.java)
