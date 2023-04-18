@@ -39,6 +39,7 @@ record some questions of leetcode
 - [746. Min Cost Climbing Stairs](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/MinCostClimbingStairs.java)
 - [62. Unique Paths](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/UniquePaths.java)
 - [63. Unique Paths II](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/UniquePaths2.java)
+- [343. Integer Break](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/IntegerBreak.java)
 
 ## Stacks And Queues
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
