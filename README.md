@@ -52,3 +52,4 @@ record some questions of leetcode
 - [117. Populating Next Right Pointers in Each Node II](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PopulatingNextRightPointersInEachNode2.java)
 - [104. Maximum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MaximumDepthOfBinaryTree.java)
 - [111. Minimum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MinimumDepthOfBinaryTree.java)
+- [226. Invert Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InvertBinaryTree.java)
