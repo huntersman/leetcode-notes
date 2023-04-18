@@ -29,6 +29,7 @@ record some questions of leetcode
 - [216. Combination Sum III](https://github.com/huntersman/leetcode-notes/blob/main/Backtracking/Combinations3.java)
 - [39. Combination Sum](https://github.com/huntersman/leetcode-notes/blob/main/Backtracking/CombinationSum.java)
 - [40. Combination Sum II](https://github.com/huntersman/leetcode-notes/blob/main/Backtracking/CombinationSum2.java)
+- [78. Subsets](https://github.com/huntersman/leetcode-notes/blob/main/Backtracking/Subsets.java)
 
 ## Dynamic Programming
 - [509. Fibonacci Number](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/FibonacciNumber.java)
