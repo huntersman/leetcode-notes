@@ -48,3 +48,4 @@ record some questions of leetcode
 - [637. Average of Levels in Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/AverageOfLevelsInBinaryTree.java)
 - [429. N-ary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/NAryTreeLevelOrderTraversal.java)
 - [515. Find Largest Value in Each Tree Row](https://github.com/huntersman/leetcode-notes/blob/main/Trees/FindLargestValueInEachTreeRow.java)
+- [116. Populating Next Right Pointers in Each Node](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PopulatingNextRightPointersInEachNode.java)
