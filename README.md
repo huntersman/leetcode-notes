@@ -37,7 +37,7 @@ record some questions of leetcode
 - [509. Fibonacci Number](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/FibonacciNumber.java)
 - [70. Climbing Stairs](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/ClimbingStairs.java)
 - [746. Min Cost Climbing Stairs](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/MinCostClimbingStairs.java)
-
+- [62. Unique Paths](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/UniquePaths.java)
 
 ## Stacks And Queues
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
