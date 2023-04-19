@@ -40,6 +40,7 @@ record some questions of leetcode
 - [62. Unique Paths](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/UniquePaths.java)
 - [63. Unique Paths II](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/UniquePaths2.java)
 - [343. Integer Break](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/IntegerBreak.java)
+- [416. Partition Equal Subset Sum](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/PartitionEqualSubsetSum.java)
 
 ## Stacks And Queues
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
