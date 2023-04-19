@@ -42,6 +42,7 @@ record some questions of leetcode
 - [343. Integer Break](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/IntegerBreak.java)
 - [416. Partition Equal Subset Sum](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/PartitionEqualSubsetSum.java)
 - [518. Coin Change II](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/CoinChange2.java)
+- [53. Maximum Subarray](https://github.com/huntersman/leetcode-notes/blob/main/DynamicProgramming/MaximumSubarray.java)
 
 ## Stacks And Queues
 - [232. Implement Queue using Stacks](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/ImplementQueueUsingStacks.java)
