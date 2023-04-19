@@ -70,3 +70,4 @@ record some questions of leetcode
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
 - [55. Jump Game](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/JumpGame.java)
+- [45. Jump Game II](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/JumpGame2.java)
