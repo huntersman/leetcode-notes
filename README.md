@@ -20,6 +20,7 @@ record some questions of leetcode
 - [209. Minimum Size Subarray Sum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumSizeSubarraySum.java)
 - [904. Fruit Into Baskets](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/FruitIntoBaskets.java)
 - [239. Sliding Window Maximum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/SlidingWindowMaximum.java)
+- [76. Minimum Window Substring](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumWindowSubstring.java)
 
 ## Simple Simulation
 - [59. Spiral Matrix II](https://github.com/huntersman/leetcode-notes/blob/main/SimpleSimulation/SpiralMatrix2.java)
