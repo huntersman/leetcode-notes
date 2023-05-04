@@ -59,6 +59,7 @@ record some questions of leetcode
 - [203. Remove Linked List Elements](https://github.com/huntersman/leetcode-notes/blob/main/Lists/RemoveLinkedListElements.java)
 - [707. Design Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/DesignLinkedList.java)
 - [206. Reverse Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/ReverseLinkedList.java)
+- [24. Swap Nodes in Pairs](https://github.com/huntersman/leetcode-notes/blob/main/Lists/SwapNodesInPairs.java)
 
 ## Trees
 - [102. Binary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal.java)
