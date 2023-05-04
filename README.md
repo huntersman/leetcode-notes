@@ -60,6 +60,7 @@ record some questions of leetcode
 - [707. Design Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/DesignLinkedList.java)
 - [206. Reverse Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/ReverseLinkedList.java)
 - [24. Swap Nodes in Pairs](https://github.com/huntersman/leetcode-notes/blob/main/Lists/SwapNodesInPairs.java)
+- [19. Remove Nth Node From End of List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/RemoveNthNodeFromEndOfList.java)
 
 ## Trees
 - [102. Binary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal.java)
