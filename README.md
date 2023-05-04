@@ -55,6 +55,9 @@ record some questions of leetcode
 - [150. Evaluate Reverse Polish Notation](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/EvaluateReversePolishNotation.java)
 - [347. Top K Frequent Elements](https://github.com/huntersman/leetcode-notes/blob/main/StacksAndQueues/TopKFrequentElements.java)
 
+## Lists
+- [203. Remove Linked List Elements](https://github.com/huntersman/leetcode-notes/blob/main/Lists/RemoveLinkedListElements.java)
+
 ## Trees
 - [102. Binary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal.java)
 - [107. Binary Tree Level Order Traversal II](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal2.java)
