@@ -1,14 +1,14 @@
 # leetcode-notes
 record some questions of leetcode
 
-## BinarySearch
+## Binary Search
 - [704 Binary Search](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/BinarySearch.java)
 - [35 Search Insert Position](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/SearchInsertPosition.java)
 - [34 Find First and Last Position of Element in Sorted Array](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray.java)
 - [69. Sqrt(x)](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/Sqrtx.java)
 - [367. Valid Perfect Square](https://github.com/huntersman/leetcode-notes/blob/main/BinarySearch/ValidPerfectSquare.java)
 
-## TwoPointers
+## Two Pointers
 - [27. Remove Element](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RemoveElement.java)
 - [26. Remove Duplicates from Sorted Array](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RemoveDuplicatesFromSortedArray.java)
 - [283. Move Zeroes](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/MoveZeroes.java)
@@ -57,6 +57,7 @@ record some questions of leetcode
 
 ## Lists
 - [203. Remove Linked List Elements](https://github.com/huntersman/leetcode-notes/blob/main/Lists/RemoveLinkedListElements.java)
+- [707. Design Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/DesignLinkedList.java)
 
 ## Trees
 - [102. Binary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal.java)
