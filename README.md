@@ -82,3 +82,6 @@ record some questions of leetcode
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
 - [55. Jump Game](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/JumpGame.java)
 - [45. Jump Game II](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/JumpGame2.java)
+
+## Hashing
+- [242. Valid Anagram](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/ValidAnagram.java)
