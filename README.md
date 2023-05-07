@@ -87,3 +87,4 @@ record some questions of leetcode
 - [242. Valid Anagram](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/ValidAnagram.java)
 - [383. Ransom Note](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/RansomNote.java)
 - [49. Group Anagrams](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/GroupAnagrams.java)
+- [438. Find All Anagrams in a String](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/FindAllAnagramsInAString.java)
