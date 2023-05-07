@@ -88,3 +88,4 @@ record some questions of leetcode
 - [383. Ransom Note](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/RansomNote.java)
 - [49. Group Anagrams](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/GroupAnagrams.java)
 - [438. Find All Anagrams in a String](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/FindAllAnagramsInAString.java)
+- [349. Intersection of Two Arrays](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/IntersectionOfTwoArrays.java)
