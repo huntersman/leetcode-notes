@@ -9,9 +9,9 @@ public class IntersectionOfTwoArrays {
         }
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < nums1.length; i++) {
-            if (have[nums2[i]] != 0) {
+            if (have[nums1[i]] != 0) {
                 list.add(nums1[i]);
-                have[nums2[i]] = 0;
+                have[nums1[i]] = 0;
             }
         }
         return list.stream().mapToInt(i -> i).toArray();
