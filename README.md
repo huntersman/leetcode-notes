@@ -91,3 +91,4 @@ record some questions of leetcode
 - [349. Intersection of Two Arrays](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/IntersectionOfTwoArrays.java)
 - [350. Intersection of Two Arrays II](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/IntersectionOfTwoArrays2.java)
 - [202. Happy Number](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/HappyNumber.java)
+- [1. Two Sum](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/TwoSum.java)
