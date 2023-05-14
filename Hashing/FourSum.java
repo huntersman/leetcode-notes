@@ -16,7 +16,7 @@ public class FourSum {
                 }
                 int left = j + 1, right = nums.length - 1;
                 while (left < right) {
-                    long sum = (long) nums[i] + (long) nums[j] + (long) nums[left] + (long) nums[right];
+                    long sum = (long) nums[i] + nums[j] + nums[left] + nums[right];
                     if (sum == target) {
                         List<Integer> list = new ArrayList<>();
                         list.add(nums[i]);
@@ -41,9 +41,5 @@ public class FourSum {
             }
         }
         return ans;
-    }
-
-    public static void main(String[] args) {
-        new FourSum().fourSum(new int[]{1000000000, 1000000000, 1000000000, 1000000000}, -294967296);
     }
 }
