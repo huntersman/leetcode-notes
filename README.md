@@ -15,6 +15,7 @@ record some questions of leetcode
 - [844. Backspace String Compare](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/BackspaceStringCompare.java)
 - [977. Squares of a Sorted Array](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/SquaresOfASortedArray.java)
 - [344. Reverse String](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/ReverseString.java)
+- [15. 3Sum](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/ThreeSum.java)
 
 ## Sliding Window
 - [209. Minimum Size Subarray Sum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumSizeSubarraySum.java)
