@@ -79,6 +79,7 @@ record some questions of leetcode
 - [111. Minimum Depth of Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MinimumDepthOfBinaryTree.java)
 - [226. Invert Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InvertBinaryTree.java)
 - [101. Symmetric Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SymmetricTree.java)
+- [222. Count Complete Tree Nodes](https://github.com/huntersman/leetcode-notes/blob/main/Trees/CountCompleteTreeNodes.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
