@@ -80,6 +80,7 @@ record some questions of leetcode
 - [226. Invert Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InvertBinaryTree.java)
 - [101. Symmetric Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SymmetricTree.java)
 - [222. Count Complete Tree Nodes](https://github.com/huntersman/leetcode-notes/blob/main/Trees/CountCompleteTreeNodes.java)
+- [110. Balanced Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BalancedBinaryTree.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
