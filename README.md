@@ -100,3 +100,8 @@ record some questions of leetcode
 ## Strings
 - [541. Reverse String II](https://github.com/huntersman/leetcode-notes/blob/main/Strings/ReverseString2.java)
 - [151. Reverse Words in a String](https://github.com/huntersman/leetcode-notes/blob/main/Strings/ReverseWordsInAString.java)
+
+### KMP
+
+- [28. Find the Index of the First Occurrence in a String](https://github.com/huntersman/leetcode-notes/blob/main/Strings/KMP/FindTheIndexOfTheFirstOccurrenceInAString.java)
+- [459. Repeated Substring Pattern](https://github.com/huntersman/leetcode-notes/blob/main/Strings/KMP/RepeatedSubstringPattern.java)
