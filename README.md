@@ -82,6 +82,7 @@ record some questions of leetcode
 - [222. Count Complete Tree Nodes](https://github.com/huntersman/leetcode-notes/blob/main/Trees/CountCompleteTreeNodes.java)
 - [110. Balanced Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BalancedBinaryTree.java)
 - [257. Binary Tree Paths](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreePaths.java)
+- [404. Sum of Left Leaves](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SumOfLeftLeaves.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
