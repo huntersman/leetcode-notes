@@ -84,6 +84,7 @@ record some questions of leetcode
 - [257. Binary Tree Paths](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreePaths.java)
 - [404. Sum of Left Leaves](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SumOfLeftLeaves.java)
 - [513. Find Bottom Left Tree Value](https://github.com/huntersman/leetcode-notes/blob/main/Trees/FindBottomLeftTreeValue.java)
+- [112. Path Sum](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PathSum.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
