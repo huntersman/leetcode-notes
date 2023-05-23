@@ -89,6 +89,7 @@ record some questions of leetcode
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 - [654. Maximum Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MaximumBinaryTree.java)
 - [617. Merge Two Binary Trees](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MergeTwoBinaryTrees.java)
+- [700. Search in a Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/SearchInABinarySearchTree.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
