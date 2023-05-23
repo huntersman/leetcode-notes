@@ -87,6 +87,7 @@ record some questions of leetcode
 - [112. Path Sum](https://github.com/huntersman/leetcode-notes/blob/main/Trees/PathSum.java)
 - [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+- [654. Maximum Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MaximumBinaryTree.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
