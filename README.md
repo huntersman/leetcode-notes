@@ -96,6 +96,7 @@ record some questions of leetcode
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/LowestCommonAncestorOfABinaryTree.java)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/LowestCommonAncestorOfABinarySearchTree.java)
 - [701. Insert into a Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InsertIntoABinarySearchTree.java)
+- [450. Delete Node in a BST](https://github.com/huntersman/leetcode-notes/blob/main/Trees/DeleteNodeIInABST.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
