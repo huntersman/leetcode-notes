@@ -93,6 +93,7 @@ record some questions of leetcode
 - [98. Validate Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/ValidateBinarySearchTree.java)
 - [530. Minimum Absolute Difference in BST](https://github.com/huntersman/leetcode-notes/blob/main/Trees/MinimumAbsoluteDifferenceInBST.java)
 - [501. Find Mode in Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/FindModeInBinarySearchTree.java)
+- [236. Lowest Common Ancestor of a Binary Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/LowestCommonAncestorOfABinaryTree.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
