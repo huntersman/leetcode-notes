@@ -98,6 +98,7 @@ record some questions of leetcode
 - [701. Insert into a Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/InsertIntoABinarySearchTree.java)
 - [450. Delete Node in a BST](https://github.com/huntersman/leetcode-notes/blob/main/Trees/DeleteNodeIInABST.java)
 - [669. Trim a Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/TrimABinarySearchTree.java)
+- [108. Convert Sorted Array to Binary Search Tree](https://github.com/huntersman/leetcode-notes/blob/main/Trees/ConvertSortedArrayToBinarySearchTree.java)
 
 ## Greedy
 - [455. Assign Cookies](https://github.com/huntersman/leetcode-notes/blob/main/Greedy/AssignCookies.java)
