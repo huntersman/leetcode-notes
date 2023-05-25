@@ -116,6 +116,7 @@ record some questions of leetcode
 - [202. Happy Number](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/HappyNumber.java)
 - [1. Two Sum](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/TwoSum.java)
 - [454. 4Sum II](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/FourSum2.java)
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 
 ## Strings
 - [541. Reverse String II](https://github.com/huntersman/leetcode-notes/blob/main/Strings/ReverseString2.java)
