@@ -69,6 +69,7 @@ record some questions of leetcode
 - [160. Intersection of Two Linked Lists](https://github.com/huntersman/leetcode-notes/blob/main/Lists/IntersectionOfTwoLinkedLists.java)
 - [142. Linked List Cycle II](https://github.com/huntersman/leetcode-notes/blob/main/Lists/LinkedListCycleII.java)
 - [234. Palindrome Linked List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/PalindromeLinkedList.java)
+- [143. Reorder List](https://github.com/huntersman/leetcode-notes/blob/main/Lists/ReorderList.java)
 
 ## Trees
 - [102. Binary Tree Level Order Traversal](https://github.com/huntersman/leetcode-notes/blob/main/Trees/BinaryTreeLevelOrderTraversal.java)
