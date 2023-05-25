@@ -27,6 +27,7 @@ record some questions of leetcode
 ## Simple Simulation
 - [59. Spiral Matrix II](https://github.com/huntersman/leetcode-notes/blob/main/SimpleSimulation/SpiralMatrix2.java)
 - [54. Spiral Matrix](https://github.com/huntersman/leetcode-notes/blob/main/SimpleSimulation/SpiralMatrix.java)
+- [941. Valid Mountain Array](https://github.com/huntersman/leetcode-notes/blob/main/SimpleSimulation/ValidMountainArray.java)
 
 ## Backtracking
 - [77. Combinations](https://github.com/huntersman/leetcode-notes/blob/main/Backtracking/Combinations.java)
