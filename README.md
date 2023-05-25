@@ -17,6 +17,7 @@ record some questions of leetcode
 - [344. Reverse String](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/ReverseString.java)
 - [15. 3Sum](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/ThreeSum.java)
 - [18. 4Sum](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/FourSum.java)
+- [189. Rotate Array](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RotateArray.java)
 
 ## Sliding Window
 - [209. Minimum Size Subarray Sum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumSizeSubarraySum.java)
