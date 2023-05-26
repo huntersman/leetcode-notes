@@ -125,6 +125,7 @@ record some questions of leetcode
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 - [1207. Unique Number of Occurrences](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/UniqueNumberOfOccurrences.java)
 - [205. Isomorphic Strings](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/IsomorphicStrings.java)
+- [1002. Find Common Characters](https://github.com/huntersman/leetcode-notes/blob/main/Hashing/FindCommonCharacters.java)
 
 ## Strings
 - [541. Reverse String II](https://github.com/huntersman/leetcode-notes/blob/main/Strings/ReverseString2.java)
