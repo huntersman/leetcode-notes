@@ -19,6 +19,7 @@ record some questions of leetcode
 - [18. 4Sum](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/FourSum.java)
 - [189. Rotate Array](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/RotateArray.java)
 - [922. Sort Array By Parity II](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/SortArrayByParityII.java)
+- [925. Long Pressed Name](https://github.com/huntersman/leetcode-notes/blob/main/TwoPointers/LongPressedName.java)
 
 ## Sliding Window
 - [209. Minimum Size Subarray Sum](https://github.com/huntersman/leetcode-notes/blob/main/SlidingWindow/MinimumSizeSubarraySum.java)
